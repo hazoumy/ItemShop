@@ -1,5 +1,5 @@
 CID_703_Athena_Commando_M_Cyclone, 1500
-ID: CID_030_Athena_Commando_M_Halloween, 1800
+CID_030_Athena_Commando_M_Halloween, 1800
 EID_Laugh, 500
 na
 na
