@@ -9,4 +9,4 @@ Wrap_018_Magma, 500
 Pickaxe_ID_363_LollipopTricksterFemale, 700
 CCID_135_Athena_Commando_F_Jailbird, 1200
 CID_760_Athena_Commando_F_NeonTightSuit, 1200
-
+AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed, 800
