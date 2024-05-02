@@ -32,4 +32,8 @@
     "itemGrants": ["CID_760_Athena_Commando_F_NeonTightSuit"],
     "price": 1500
    }
+    },
+  "daily4": {
+    "itemGrants": ["AthenaCharacter:CID_546_Athena_Commando_F_TacticalRed"],
+    "price": 800
 }
